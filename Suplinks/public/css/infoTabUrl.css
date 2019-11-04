@@ -1,0 +1,47 @@
+.icon-trash{
+    text-decoration: none;
+    font-size: 18px;
+    color: red;
+    padding: 0;
+}
+
+.icon-trash:hover{
+    transform: scale(1.3);
+}
+
+.icon-plus-circled{
+    color: #1de9b6;
+    font-size: 18px;
+}
+
+.icon-unlink, .icon-link{
+    color: #1de9b6;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0;
+}
+
+.icon-server.icon-mouse-pointer.icon-globe{
+    color: royalblue;
+    font-size: 15px;
+}
+
+.btn-style{
+    color: #00e676;
+    border-color: #00e676;
+    background-color: white;
+}
+
+.btn-style:hover{
+    color: white;
+    border-color: #1de9b6;
+    background-color: #1de9b6;
+}
+
+#rowInfo:hover{
+    background-color: #F5F5F5;
+}
+
+.icon-ok, .icon-cancel, .icon-info{
+    font-size: 19px;
+}
